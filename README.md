@@ -1,8 +1,8 @@
-# Multiverse
+# Multiverse Landing Page
 
-<!-- ## Preview link : https://44a55a62.shirt-design-threejs.pages.dev/ -->
+## Preview link : https://multiverse-nextjs.vercel.app/
 
-<!-- ### Description: A shirt design platform for designing custom awesome t-shorts -->
+### Description: A Next 13 modern futuristic landing page that shows how metaversus are cool
 
 ## Technologies & Tools
 
