@@ -1,5 +1,7 @@
 # Multiverse Landing Page
 
+![multiverse home section](/public/mulltiverse_nextjs.png)
+
 ## Preview link : https://multiverse-nextjs.vercel.app/
 
 ### Description: A Next 13 modern futuristic landing page that shows how metaversus are cool
